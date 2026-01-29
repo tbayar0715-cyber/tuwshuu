@@ -5,7 +5,8 @@
      <title>tuvshinbayar</title>
 </head>
 <body>
-     <h1>Welcome to class</h1>
+     <h1>Welcome to website</h1>
+     <h2>buyan daaj yavaarai</h2>
      <p>:f;lgj;likhgioldxkjsfldjfpodh</p>
 </body>
 </html>
