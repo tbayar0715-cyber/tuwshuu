@@ -7,6 +7,6 @@
 <body>
      <h1>Welcome to website</h1>
      <h2>buyan daaj yavaarai</h2>
-     <p>:f;lgj;likhgioldxkjsfldjfpodh</p>
+     <p>:лорслобөгршларөүброөболраөолөабрхаөобыөрдлбрдлбшүыаэхолөоблошүобхөёрөшл</p>
 </body>
 </html>
