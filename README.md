@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <title>Welcome to internet Technology Fundamentals</title>
+     <title>tuvshinbayar</title>
 </head>
 <body>
-     <h1>Welcome to Laboratory 1</h1>
-     <p>:orem ipsum dolor sit amet,</p>
+     <h1>Welcome to class</h1>
+     <p>:f;lgj;likhgioldxkjsfldjfpodh</p>
 </body>
 </html>
